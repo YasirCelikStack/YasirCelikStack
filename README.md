@@ -85,8 +85,6 @@ A scanner that detects high-quality price ranges (Range High / Range Low / Equil
 - Custom detection logic, per-timeframe databases, dark fintech UI
 - **Stack:** Python · Flask · SQLite · ccxt · MetaTrader5
 
-### 🏭 Smart Warehouse Management System *(team project, "Dijital Simyacılar")*
-An object-recognition-based, color-driven warehouse management system built for a university group project.
 
 ### 🧰 More experiments
 - **Trading Journal**: C# / Windows Forms desktop app for my OOP course
