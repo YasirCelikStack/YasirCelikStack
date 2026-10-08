@@ -74,7 +74,7 @@ A reference directory covering **all 81 provinces of Türkiye** with real review
 A nutrition tracker available in Turkish and English.
 - **Stack:** Next.js · Supabase · Vercel
 
-### 💪 Gym App: installable workout PWA
+### 💪 [Gym App](https://gym-app-4vx8.vercel.app/): installable workout PWA
 A public gym web app that works on both Android and iPhone.
 - Curated exercise video library with per-exercise form videos and search
 - Own-program builder and workout tracker, stored on-device (no sign-up needed)
