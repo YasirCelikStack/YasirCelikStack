@@ -1,12 +1,17 @@
 <div align="center">
 
-# Hi, I'm Yasir 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Yasir&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20builder%20from%20T%C3%BCrkiye&descSize=20&descAlignY=58" width="100%" alt="header" />
+
+<a href="https://github.com/YasirCelikStack">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Next.js+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Vercel;I+ship+real+products%2C+idea+%E2%86%92+code+%E2%86%92+deploy" alt="Typing animation" />
+</a>
+
+<br/>
 
 **Software Engineering student & full-stack builder from Türkiye 🇹🇷**
 
-I ship real web products end to end: idea → code → deploy.
-
-![Profile views](https://komarev.com/ghpvc/?username=YasirCelikStack&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=YasirCelikStack&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YasirCelikStack?label=Followers&style=for-the-badge&color=38BDF8&logo=github)
 
 </div>
 
@@ -31,33 +36,29 @@ Fırat Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim. Fikirde
 
 ## 🛠️ Tech stack
 
-**Web**
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & data**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Languages**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools & deployment**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</div>
 
 ---
 
@@ -85,7 +86,6 @@ A scanner that detects high-quality price ranges (Range High / Range Low / Equil
 - Custom detection logic, per-timeframe databases, dark fintech UI
 - **Stack:** Python · Flask · SQLite · ccxt · MetaTrader5
 
-
 ### 🧰 More experiments
 - **Trading Journal**: C# / Windows Forms desktop app for my OOP course
 - **DersBildirim**: C# Worker Service that pushes class-schedule notifications to my phone via ntfy.sh
@@ -97,10 +97,26 @@ A scanner that detects high-quality price ranges (Range High / Range Low / Equil
 
 <div align="center">
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirCelikStack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirCelikStack&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YasirCelikStack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirCelikStack&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=YasirCelikStack&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=YasirCelikStack&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YasirCelikStack&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
+### 📈 Contribution activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirCelikStack&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Activity graph" />
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasirCelikStack/YasirCelikStack/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasirCelikStack/YasirCelikStack/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YasirCelikStack/YasirCelikStack/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -124,5 +140,7 @@ A scanner that detects high-quality price ranges (Range High / Range Low / Equil
 <div align="center">
 
 *"Build things people can actually use."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
