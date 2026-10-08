@@ -110,7 +110,7 @@ An object-recognition-based, color-driven warehouse management system built for 
 
 ## 🎯 Currently
 
-- 🔨 Completing Lezzetci province by province (Hatay in progress)
+- 🔨 Completing Lezzetci province by province
 - 📈 Improving range-detection accuracy in RangeFinder before any SaaS work
 - 🎓 Studying Object-Oriented Programming in C# and building a trading journal for it
 - 🌍 Practicing my English by writing docs and READMEs in it
