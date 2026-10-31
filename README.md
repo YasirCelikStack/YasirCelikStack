@@ -46,8 +46,6 @@ Fırat Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim. Fikirde
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,10 +79,12 @@ A public gym web app that works on both Android and iPhone.
 - Own-program builder and workout tracker, stored on-device (no sign-up needed)
 - **Stack:** Next.js (PWA) · Vercel
 
-### 📊 RangeFinder: multi-timeframe market range scanner *(in development)*
-A scanner that detects high-quality price ranges (Range High / Range Low / Equilibrium) across 5m–4h timeframes on crypto futures and forex.
-- Custom detection logic, per-timeframe databases, dark fintech UI
-- **Stack:** Python · Flask · SQLite · ccxt · MetaTrader5
+### 📈 Chart Vault: a calm workspace for chart-driven traders *(in development)*
+A web app where forex and crypto traders keep their watched pairs and chart images in one place and get notified when price reaches a level they care about.
+- Saved pairs and charts, with price-level alerts via email and Telegram
+- Bar replay and built-in charting and drawing tools
+- Made for traders who read charts through ranges and consolidations
+- Design: dark, minimal interface with a calm blue/teal palette
 
 ### 🧰 More experiments
 - **Trading Journal**: C# / Windows Forms desktop app for my OOP course
@@ -125,7 +125,7 @@ A scanner that detects high-quality price ranges (Range High / Range Low / Equil
 ## 🎯 Currently
 
 - 🔨 Completing Lezzetci province by province
-- 📈 Improving range-detection accuracy in RangeFinder before any SaaS work
+- 📈 Building Chart Vault: price alerts, bar replay and charting tools
 - 🎓 Studying Object-Oriented Programming in C# and building a trading journal for it
 - 🌍 Practicing my English by writing docs and READMEs in it
 
