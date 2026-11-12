@@ -62,29 +62,21 @@ Fırat Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim. Fikirde
 
 ## 🚀 Featured projects
 
-### 🍽️ [Lezzetci](https://lezzetci.vercel.app): Turkish food & restaurant guide
-A reference directory covering **all 81 provinces of Türkiye** with real reviews, photos, YouTuber video references (with timestamps) and location data.
-- Venue detail pages, dish filters, signature-dish pages, SEO (dynamic metadata, sitemap)
-- Password-protected admin panel with image uploads to Supabase Storage
-- Custom visual identity: kilim motifs, serif/mono typography
-- **Stack:** Next.js · Tailwind CSS · Supabase · Vercel
-
-### 🥗 [Besinle](https://besinle.com): Bilingual nutrition tracking platform
-A nutrition tracker available in Turkish and English.
-- **Stack:** Next.js · Supabase · Vercel
+### 📈 [Chart Vault](https://chart-vault-mu.vercel.app): a free workspace for chart-driven traders
+A web app where forex, crypto and US stock traders keep their watched pairs and chart images in one place, analyze on their own charts and get notified when price reaches a level they care about. Live, multi-user and completely free.
+- **Own charting:** lightweight-charts based chart with TradingView-style drawing tools (Fibonacci, long/short position, channels, measuring tools, brush), templates, magnet, custom timeframes and 30+ themes
+- **Price alerts** via email and Telegram, checked every 20 seconds: crypto from Binance, forex/metals/indices from my own MT5 (OANDA) bridge running on a Windows server
+- **Bar replay** for manual backtesting: demo balance, market/limit orders, stop-loss and take-profits, partial closes and session stats
+- **Watchlists & chart archive:** multiple lists with sections and live prices, chart screenshots saved into folders (lossless WebP)
+- **US stocks** (15-min delayed, Alpaca) and a **world markets page:** 15 major exchanges' sessions, holidays and half days in Turkish time, auto-updated weekly by GitHub Actions
+- Installable PWA with a dedicated mobile layout
+- **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS · Supabase (Postgres, Auth, Storage, pg_cron) · Vercel · Python · Cloudflare Workers
 
 ### 💪 [Gym App](https://gym-app-4vx8.vercel.app/): installable workout PWA
 A public gym web app that works on both Android and iPhone.
 - Curated exercise video library with per-exercise form videos and search
 - Own-program builder and workout tracker, stored on-device (no sign-up needed)
 - **Stack:** Next.js (PWA) · Vercel
-
-### 📈 Chart Vault: a calm workspace for chart-driven traders *(in development)*
-A web app where forex and crypto traders keep their watched pairs and chart images in one place and get notified when price reaches a level they care about.
-- Saved pairs and charts, with price-level alerts via email and Telegram
-- Bar replay and built-in charting and drawing tools
-- Made for traders who read charts through ranges and consolidations
-- Design: dark, minimal interface with a calm blue/teal palette
 
 ### 🧰 More experiments
 - **Trading Journal**: C# / Windows Forms desktop app for my OOP course
@@ -124,8 +116,7 @@ A web app where forex and crypto traders keep their watched pairs and chart imag
 
 ## 🎯 Currently
 
-- 🔨 Completing Lezzetci province by province
-- 📈 Building Chart Vault: price alerts, bar replay and charting tools
+- 📈 Growing Chart Vault: new markets, charting tools and a smoother mobile experience
 - 🎓 Studying Object-Oriented Programming in C# and building a trading journal for it
 - 🌍 Practicing my English by writing docs and READMEs in it
 
@@ -133,7 +124,7 @@ A web app where forex and crypto traders keep their watched pairs and chart imag
 
 - 💼 LinkedIn: [Muhammet Yasir Çelik](https://www.linkedin.com/in/muhammet-yasir-çelik-993b3b1b3)
 - ✉️ Email: [yasircelik3@gmail.com](mailto:yasircelik3@gmail.com)
-- 🌐 Live project: [lezzetci.vercel.app](https://lezzetci.vercel.app)
+- 🌐 Live project: [chart-vault-mu.vercel.app](https://chart-vault-mu.vercel.app)
 
 ---
 
